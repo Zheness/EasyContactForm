@@ -1,6 +1,6 @@
 # EasyContactForm
 
-** English version not implemented yet **
+**English version not implemented yet**
 
 EasyContactForm est un simple formulaire HTML, utilisant le Bootstrap de twitter pour le CSS (mais il n'est pas obligatoire) et une page de réception en PHP.
 
